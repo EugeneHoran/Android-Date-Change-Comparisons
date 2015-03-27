@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Date Comparisons</string>
+    <string name="action_settings">Settings</string>
+    <string name="dateChange">DATE CHANGE</string>
+    <string name="dateToday">DATE TODAY</string>
+    <string name="datePrevious">Previous</string>
+    <string name="dateNext">Next</string>
+</resources>
