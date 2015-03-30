@@ -43,7 +43,7 @@ public class DateCompare {
     Checks to see if two dates are equal
     Returns True if dates are equal
      */
-    public static boolean areDatesEqual(Date a, Date b) {
+    public static boolean areDatesEqual(Date a, Date b) {  // Reference @Lanre Adebambo  https://github.com/lanre-ade
         Calendar cal1 = Calendar.getInstance();  // put in current date; Date mDate = new Date();
         Calendar cal2 = Calendar.getInstance();  // put in the date to compare
         cal1.setTime(a);
